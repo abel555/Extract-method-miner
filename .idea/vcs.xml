@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tmp/PagerBottomTabStrip" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tmp/karate" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tmp/refactoring-toy-example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tmp1/RxJava" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tmp1/android_frameworks_base" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tmp1/drill" vcs="Git" />
+  </component>
+</project>

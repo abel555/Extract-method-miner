@@ -118,6 +118,7 @@ public class GitServiceImpl implements GitService {
 	    try (Git git = new Git(repository)) {
 	        CheckoutCommand checkout = git.checkout().setName(commitId);
 	        checkout.call();
+	        System.out.println("asdas");
 	    }
 //		File workingDir = repository.getDirectory().getParentFile();
 //		ExternalProcess.execute(workingDir, "git", "checkout", commitId);
