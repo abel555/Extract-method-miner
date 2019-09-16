@@ -126,4 +126,12 @@ public class RenameOperationRefactoring implements Refactoring {
 				.setCodeElement(renamedOperation.toString()));
 		return ranges;
 	}
+	public Class<? extends UMLOperation> getClassBeforeRefactoring(){
+		System.out.println("clase antes");
+		return null;
+	}
+	public Class<? extends Class> getClassAfterRefactoring(){
+		System.out.println("clase despues");
+		return null;
+	}
 }

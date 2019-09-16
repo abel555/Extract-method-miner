@@ -1,5 +1,7 @@
 package org.refactoringminer.api;
 
+import gr.uom.java.xmi.UMLOperation;
+
 import java.io.Serializable;
 import java.util.List;
 
@@ -14,6 +16,8 @@ public interface Refactoring extends Serializable, CodeRangeProvider {
 	public List<String> getInvolvedClassesBeforeRefactoring();
 	
 	public List<String> getInvolvedClassesAfterRefactoring();
+	public Class<? extends UMLOperation> getClassBeforeRefactoring();
+	public Class<? extends Class> getClassAfterRefactoring();
 	
 	default public String toJSON() {
 		StringBuilder sb = new StringBuilder();

@@ -75,11 +75,19 @@ public class ExtractOperationRefactoring implements Refactoring {
 		return sourceClassName.equals(targetClassName) ? sourceClassName : targetClassName;
 	}
 
+	public UMLOperation getSourceOperationBeforeExtraction() {
+		return sourceOperationBeforeExtraction;
+	}
+
+	public UMLOperation getSourceOperationAfterExtraction() {
+		return sourceOperationAfterExtraction;
+	}
+
 	public Class<? extends UMLOperation> getClassBeforeRefactoring(){
 		return getSourceOperationBeforeExtraction().getClass();
 	}
-	public Class<? extends UMLOperation> getClassAfterRefactoring(){
-		return getSourceOperationAfterExtraction().getClass();
+	public Class<? extends Class> getClassAfterRefactoring(){
+		return getSourceOperationAfterExtraction().getClass().getClass();
 	}
 
 	public UMLOperationBodyMapper getBodyMapper() {
@@ -90,13 +98,7 @@ public class ExtractOperationRefactoring implements Refactoring {
 		return extractedOperation;
 	}
 
-	public UMLOperation getSourceOperationBeforeExtraction() {
-		return sourceOperationBeforeExtraction;
-	}
 
-	public UMLOperation getSourceOperationAfterExtraction() {
-		return sourceOperationAfterExtraction;
-	}
 
 	public List<OperationInvocation> getExtractedOperationInvocations() {
 		return extractedOperationInvocations;

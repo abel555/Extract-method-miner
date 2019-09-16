@@ -149,4 +149,12 @@ public class RenameVariableRefactoring implements Refactoring {
 				.setCodeElement(renamedVariable.toString()));
 		return ranges;
 	}
+	public Class<? extends UMLOperation> getClassBeforeRefactoring(){
+		System.out.println("clase antes");
+		return null;
+	}
+	public Class<? extends Class> getClassAfterRefactoring(){
+		System.out.println("clase despues");
+		return null;
+	}
 }

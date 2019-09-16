@@ -122,4 +122,12 @@ public class InlineVariableRefactoring implements Refactoring {
 		List<CodeRange> ranges = new ArrayList<CodeRange>();
 		return ranges;
 	}
+	public Class<? extends UMLOperation> getClassBeforeRefactoring(){
+		System.out.println("clase antes");
+		return null;
+	}
+	public Class<? extends Class> getClassAfterRefactoring(){
+		System.out.println("clase despues");
+		return null;
+	}
 }

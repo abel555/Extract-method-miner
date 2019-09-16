@@ -4,7 +4,7 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="E:/java parser folder/javaparser-maven-sample/pom.xml" />
+        <option value="$PROJECT_DIR$/parserjava/pom.xml" />
       </list>
     </option>
   </component>

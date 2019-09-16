@@ -2,27 +2,53 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1f85bef-aae8-40d9-afb1-b1cb13675bc5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/ChangeAttributeTypeRefactoring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/ChangeAttributeTypeRefactoring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/ChangeReturnTypeRefactoring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/ChangeReturnTypeRefactoring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/ChangeVariableTypeRefactoring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/ChangeVariableTypeRefactoring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/ConvertAnonymousClassToTypeRefactoring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/ConvertAnonymousClassToTypeRefactoring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/ExtractAndMoveOperationRefactoring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/ExtractAndMoveOperationRefactoring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/ExtractAttributeRefactoring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/ExtractAttributeRefactoring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/ExtractClassRefactoring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/ExtractClassRefactoring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/ExtractOperationRefactoring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/ExtractOperationRefactoring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/ExtractSuperclassRefactoring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/ExtractSuperclassRefactoring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/ExtractVariableRefactoring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/ExtractVariableRefactoring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/InlineOperationRefactoring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/InlineOperationRefactoring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/InlineVariableRefactoring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/InlineVariableRefactoring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/MergeAttributeRefactoring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/MergeAttributeRefactoring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/MergeVariableRefactoring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/MergeVariableRefactoring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/MoveAndRenameClassRefactoring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/MoveAndRenameClassRefactoring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/MoveAttributeRefactoring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/MoveAttributeRefactoring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/MoveClassRefactoring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/MoveClassRefactoring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/MoveOperationRefactoring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/MoveOperationRefactoring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/MoveSourceFolderRefactoring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/MoveSourceFolderRefactoring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/RenameAttributeRefactoring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/RenameAttributeRefactoring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/RenameClassRefactoring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/RenameClassRefactoring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/RenameOperationRefactoring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/RenameOperationRefactoring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/RenamePackageRefactoring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/RenamePackageRefactoring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/RenameVariableRefactoring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/RenameVariableRefactoring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/SplitAttributeRefactoring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/SplitAttributeRefactoring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/SplitVariableRefactoring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/SplitVariableRefactoring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/org/refactoringminer/ExtractMethodMiner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/refactoringminer/ExtractMethodMiner.java" afterDir="false" />
-      <change beforePath="E:/java parser folder/javaparser-maven-sample/src/main/java/com/yourorganization/maven_sample/ClassInfo.java" beforeDir="false" afterPath="E:/java parser folder/javaparser-maven-sample/src/main/java/com/yourorganization/maven_sample/ClassInfo.java" afterDir="false" />
-      <change beforePath="E:/java parser folder/javaparser-maven-sample/src/main/java/com/yourorganization/maven_sample/ClassVisitor.java" beforeDir="false" afterPath="E:/java parser folder/javaparser-maven-sample/src/main/java/com/yourorganization/maven_sample/ClassVisitor.java" afterDir="false" />
-      <change beforePath="E:/java parser folder/javaparser-maven-sample/src/main/java/com/yourorganization/maven_sample/FolderParser.java" beforeDir="false" afterPath="E:/java parser folder/javaparser-maven-sample/src/main/java/com/yourorganization/maven_sample/FolderParser.java" afterDir="false" />
-      <change beforePath="E:/java parser folder/javaparser-maven-sample/src/main/java/com/yourorganization/maven_sample/LogicPositivizer.java" beforeDir="false" afterPath="E:/java parser folder/javaparser-maven-sample/src/main/java/com/yourorganization/maven_sample/LogicPositivizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/refactoringminer/api/Refactoring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/refactoringminer/api/Refactoring.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="E:/java parser folder/javaparser-maven-sample/target/" />
+    <ignored path="$PROJECT_DIR$/parserjava/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
@@ -61,6 +87,17 @@
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
                 <item name="build" type="c8890929:TasksNode$1" />
               </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="RefactoringMiner" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build setup" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="RefactoringMiner" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
             </expand>
             <select />
           </tree_state>
@@ -68,54 +105,65 @@
       </state>
     </system>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="RefactoringMiner" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/refactoringminer/RefactoringMinerHttpServer.java">
+        <entry file="file://$PROJECT_DIR$/src/org/refactoringminer/ExtractMethodMiner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+            <state relative-caret-position="100">
+              <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/org/refactoringminer/ExtractMethodMiner.java">
+        <entry file="file://$PROJECT_DIR$/src/org/refactoringminer/ExtractMethodProcessor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="42" column="47" lean-forward="true" selection-start-line="42" selection-start-column="47" selection-end-line="42" selection-end-column="47" />
+            <state relative-caret-position="140">
+              <caret line="109" column="10" selection-start-line="109" selection-start-column="10" selection-end-line="109" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1083#1723#0" expanded="true" />
-                <element signature="e#1722#1723#0" expanded="true" />
+                <element signature="e#755#756#0" expanded="true" />
+                <element signature="e#789#790#0" expanded="true" />
+                <element signature="e#1367#1381#0" expanded="true" />
+                <element signature="e#1562#2754#0" expanded="true" />
+                <element signature="e#2753#2754#0" expanded="true" />
+                <element signature="e#4535#4536#0" expanded="true" />
+                <element signature="e#4598#4599#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/refactoringminer/api/Refactoring.java">
+        <entry file="file://$PROJECT_DIR$/src/org/refactoringminer/MethodVIsitor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/refactoringminer/ClassInfo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="11" column="25" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/refactoringminer/ClassVisitor.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="80">
-              <caret line="5" column="23" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/gr/uom/java/xmi/diff/ExtractOperationRefactoring.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="580">
-              <caret line="77" column="66" selection-start-line="77" selection-start-column="41" selection-end-line="77" selection-end-column="66" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/refactoringminer/api/GitHistoryRefactoringMiner.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="419">
-              <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+              <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -123,8 +171,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/org/refactoringminer/RefactorInfo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="860">
-              <caret line="43" column="35" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
+            <state relative-caret-position="169">
+              <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#150#151#0" expanded="true" />
@@ -143,29 +191,7 @@
                 <element signature="e#743#744#0" expanded="true" />
                 <element signature="e#801#802#0" expanded="true" />
                 <element signature="e#845#846#0" expanded="true" />
-                <element signature="e#902#903#0" expanded="true" />
-                <element signature="e#928#929#0" expanded="true" />
-                <element signature="e#993#994#0" expanded="true" />
-                <element signature="e#1036#1037#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/refactoringminer/api/RefactoringHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="35">
-              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/refactoringminer/ExtractInfo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -173,19 +199,33 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/org/refactoringminer/rm1/GitHistoryRefactoringMinerImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6460">
-              <caret line="388" column="13" selection-start-line="388" selection-start-column="13" selection-end-line="388" selection-end-column="13" />
+            <state relative-caret-position="129">
+              <caret line="381" column="32" selection-start-line="381" selection-start-column="32" selection-end-line="381" selection-end-column="32" />
+              <folding>
+                <element signature="e#15965#16096#0" expanded="true" />
+                <element signature="e#16095#16096#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jgit/org.eclipse.jgit/5.2.1.201812262042-r/b1c9e2ae01dd31ab4957de54756ec11acc99bb30/org.eclipse.jgit-5.2.1.201812262042-r-sources.jar!/org/eclipse/jgit/lib/Repository.java">
+        <entry file="file://$PROJECT_DIR$/src/org/refactoringminer/util/GitServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="118" column="22" selection-start-line="118" selection-start-column="22" selection-end-line="118" selection-end-column="22" />
+            <state relative-caret-position="169">
+              <caret line="115" column="16" selection-start-line="115" selection-start-column="16" selection-end-line="115" selection-end-column="16" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/github-credentials.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server.properties">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -200,6 +240,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>Refactorings at 40950c317bd52ea5ce4cf0d19707fe426b66649c</find>
+      <find>customItemLayout</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -213,19 +254,46 @@
         <option value="$PROJECT_DIR$/src/org/refactoringminer/util/GitServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/org/refactoringminer/ExtractInfo.java" />
         <option value="$PROJECT_DIR$/src/org/refactoringminer/RefactorInfo.java" />
+        <option value="$PROJECT_DIR$/src/org/refactoringminer/api/Refactoring.java" />
+        <option value="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/ChangeReturnTypeRefactoring.java" />
+        <option value="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/InlineVariableRefactoring.java" />
+        <option value="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/ExtractVariableRefactoring.java" />
+        <option value="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/MoveAttributeRefactoring.java" />
+        <option value="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/ExtractClassRefactoring.java" />
+        <option value="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/ExtractSuperclassRefactoring.java" />
+        <option value="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/ConvertAnonymousClassToTypeRefactoring.java" />
+        <option value="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/RenamePackageRefactoring.java" />
+        <option value="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/MoveClassRefactoring.java" />
+        <option value="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/ChangeVariableTypeRefactoring.java" />
+        <option value="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/MoveOperationRefactoring.java" />
+        <option value="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/SplitAttributeRefactoring.java" />
+        <option value="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/SplitVariableRefactoring.java" />
+        <option value="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/MergeAttributeRefactoring.java" />
+        <option value="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/MoveSourceFolderRefactoring.java" />
+        <option value="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/ExtractAndMoveOperationRefactoring.java" />
+        <option value="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/MergeVariableRefactoring.java" />
+        <option value="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/RenameOperationRefactoring.java" />
+        <option value="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/MoveAndRenameClassRefactoring.java" />
+        <option value="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/RenameVariableRefactoring.java" />
+        <option value="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/ChangeAttributeTypeRefactoring.java" />
+        <option value="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/ExtractAttributeRefactoring.java" />
+        <option value="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/RenameClassRefactoring.java" />
+        <option value="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/RenameAttributeRefactoring.java" />
+        <option value="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/InlineOperationRefactoring.java" />
         <option value="$PROJECT_DIR$/src/gr/uom/java/xmi/diff/ExtractOperationRefactoring.java" />
+        <option value="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
+        <option value="$PROJECT_DIR$/parserjava/pom.xml" />
         <option value="$PROJECT_DIR$/src/org/refactoringminer/ExtractMethodMiner.java" />
+        <option value="$PROJECT_DIR$/src/org/refactoringminer/MethodVIsitor.java" />
+        <option value="$PROJECT_DIR$/src/org/refactoringminer/ClassInfo.java" />
+        <option value="$PROJECT_DIR$/src/org/refactoringminer/ClassVisitor.java" />
+        <option value="$PROJECT_DIR$/src/org/refactoringminer/ExtractMethodProcessor.java" />
       </list>
     </option>
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="javaparser-maven-sample" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-      </expand>
+      <expand />
       <select />
     </treeState>
   </component>
@@ -241,8 +309,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -253,17 +321,6 @@
             <path>
               <item name="RefactoringMiner" type="b2602c69:ProjectViewProjectNode" />
               <item name="RefactoringMiner" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="gradle" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RefactoringMiner" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RefactoringMiner" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="gradle" type="462c0819:PsiDirectoryNode" />
-              <item name="wrapper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RefactoringMiner" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RefactoringMiner" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
@@ -274,10 +331,7 @@
             </path>
             <path>
               <item name="RefactoringMiner" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RefactoringMiner" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="refactoringminer" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -294,15 +348,19 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="E:/java parser folder/javaparser-maven-sample/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.refactoringminer" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="org.refactoringminer" />
     </key>
   </component>
@@ -392,28 +450,30 @@
       <workItem from="1567885143552" duration="16228000" />
       <workItem from="1567998893674" duration="1025000" />
       <workItem from="1568063374463" duration="10256000" />
-      <workItem from="1568224646299" duration="16306000" />
+      <workItem from="1568224646299" duration="16905000" />
+      <workItem from="1568508214788" duration="2044000" />
+      <workItem from="1568560850153" duration="32027000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46223000" />
+    <option name="totallyTimeSpent" value="80893000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26066098" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4990619" visible="true" weight="0.26545843" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Favorites" order="6" sideWeight="0.50093806" side_tool="true" visible="true" weight="0.26545843" />
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.4225352" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.4225352" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -427,10 +487,10 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.3283582" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.13539445" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Gradle" order="6" weight="0.32995737" />
+      <window_info anchor="right" id="Gradle" order="6" weight="0.1369936" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
@@ -439,26 +499,7 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/org/refactoringminer/ExtractMethodMiner.java</url>
-          <line>24</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/org/refactoringminer/api/RefactoringType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/nio/file/Files.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
@@ -483,27 +524,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/refactoringminer/rm1/GitHistoryRefactoringMinerImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6460">
-          <caret line="388" column="13" selection-start-line="388" selection-start-column="13" selection-end-line="388" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jgit/org.eclipse.jgit/5.2.1.201812262042-r/b1c9e2ae01dd31ab4957de54756ec11acc99bb30/org.eclipse.jgit-5.2.1.201812262042-r-sources.jar!/org/eclipse/jgit/lib/Repository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="118" column="22" selection-start-line="118" selection-start-column="22" selection-end-line="118" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/refactoringminer/util/GitServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="119" column="28" selection-start-line="119" selection-start-column="28" selection-end-line="119" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/org/refactoringminer/RefactoringMinerHttpsServer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -518,6 +538,205 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/refactoringminer/api/RefactoringHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jgit/org.eclipse.jgit/5.2.1.201812262042-r/b1c9e2ae01dd31ab4957de54756ec11acc99bb30/org.eclipse.jgit-5.2.1.201812262042-r-sources.jar!/org/eclipse/jgit/lib/Repository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="118" column="22" selection-start-line="118" selection-start-column="22" selection-end-line="118" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/refactoringminer/api/GitHistoryRefactoringMiner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gr/uom/java/xmi/diff/ChangeReturnTypeRefactoring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="511">
+          <caret line="152" column="1" lean-forward="true" selection-start-line="152" selection-start-column="1" selection-end-line="152" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gr/uom/java/xmi/diff/InlineVariableRefactoring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2140">
+          <caret line="131" column="5" selection-start-line="131" selection-start-column="5" selection-end-line="131" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gr/uom/java/xmi/diff/ExtractVariableRefactoring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="131" column="5" selection-start-line="131" selection-start-column="5" selection-end-line="131" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gr/uom/java/xmi/diff/MoveAttributeRefactoring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="134" column="5" selection-start-line="134" selection-start-column="5" selection-end-line="134" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gr/uom/java/xmi/diff/ExtractClassRefactoring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="104" column="5" selection-start-line="104" selection-start-column="5" selection-end-line="104" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gr/uom/java/xmi/diff/ExtractSuperclassRefactoring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="95" column="5" selection-start-line="95" selection-start-column="5" selection-end-line="95" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gr/uom/java/xmi/diff/ConvertAnonymousClassToTypeRefactoring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="81" column="5" selection-start-line="81" selection-start-column="5" selection-end-line="81" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gr/uom/java/xmi/diff/RenamePackageRefactoring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="99" column="5" selection-start-line="99" selection-start-column="5" selection-end-line="99" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gr/uom/java/xmi/diff/MoveClassRefactoring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="99" column="5" selection-start-line="99" selection-start-column="5" selection-end-line="99" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gr/uom/java/xmi/diff/ChangeVariableTypeRefactoring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="151" column="5" selection-start-line="151" selection-start-column="5" selection-end-line="151" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gr/uom/java/xmi/diff/MoveOperationRefactoring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="131" column="5" selection-start-line="131" selection-start-column="5" selection-end-line="131" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gr/uom/java/xmi/diff/SplitAttributeRefactoring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="150" column="5" selection-start-line="150" selection-start-column="5" selection-end-line="150" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gr/uom/java/xmi/diff/SplitVariableRefactoring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="165" column="5" selection-start-line="165" selection-start-column="5" selection-end-line="165" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gr/uom/java/xmi/diff/MergeAttributeRefactoring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="146" column="5" selection-start-line="146" selection-start-column="5" selection-end-line="146" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gr/uom/java/xmi/diff/MoveSourceFolderRefactoring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="98" column="5" selection-start-line="98" selection-start-column="5" selection-end-line="98" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gr/uom/java/xmi/diff/ExtractAndMoveOperationRefactoring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="219" column="5" selection-start-line="219" selection-start-column="5" selection-end-line="219" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gr/uom/java/xmi/diff/MergeVariableRefactoring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="161" column="5" selection-start-line="161" selection-start-column="5" selection-end-line="161" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gr/uom/java/xmi/diff/RenameOperationRefactoring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="135" column="5" selection-start-line="135" selection-start-column="5" selection-end-line="135" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gr/uom/java/xmi/diff/MoveAndRenameClassRefactoring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="89" column="5" selection-start-line="89" selection-start-column="5" selection-end-line="89" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gr/uom/java/xmi/diff/ExtractAttributeRefactoring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="116" column="5" selection-start-line="116" selection-start-column="5" selection-end-line="116" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gr/uom/java/xmi/diff/RenameClassRefactoring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="89" column="5" selection-start-line="89" selection-start-column="5" selection-end-line="89" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gr/uom/java/xmi/diff/RenameAttributeRefactoring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="136" column="5" selection-start-line="136" selection-start-column="5" selection-end-line="136" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gr/uom/java/xmi/diff/InlineOperationRefactoring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="711">
+          <caret line="218" column="5" selection-start-line="218" selection-start-column="5" selection-end-line="218" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gr/uom/java/xmi/diff/RenameVariableRefactoring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="158" column="5" selection-start-line="158" selection-start-column="5" selection-end-line="158" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gr/uom/java/xmi/diff/ChangeAttributeTypeRefactoring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="150" column="5" selection-start-line="150" selection-start-column="5" selection-end-line="150" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gr/uom/java/xmi/decomposition/OperationBody.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/org/refactoringminer/ExtractInfo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
@@ -525,17 +744,69 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/refactoringminer/api/RefactoringHandler.java">
+    <entry file="file://$PROJECT_DIR$/src/org/refactoringminer/api/Refactoring.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        <state relative-caret-position="80">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gr/uom/java/xmi/diff/ExtractOperationRefactoring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="62" column="42" selection-start-line="62" selection-start-column="42" selection-end-line="62" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parserjava/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/github-credentials.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/refactoringminer/util/GitServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="115" column="16" selection-start-line="115" selection-start-column="16" selection-end-line="115" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/refactoringminer/rm1/GitHistoryRefactoringMinerImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="381" column="32" selection-start-line="381" selection-start-column="32" selection-end-line="381" selection-end-column="32" />
+          <folding>
+            <element signature="e#15965#16096#0" expanded="true" />
+            <element signature="e#16095#16096#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/org/refactoringminer/RefactorInfo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="860">
-          <caret line="43" column="35" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
+        <state relative-caret-position="169">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#150#151#0" expanded="true" />
@@ -554,43 +825,65 @@
             <element signature="e#743#744#0" expanded="true" />
             <element signature="e#801#802#0" expanded="true" />
             <element signature="e#845#846#0" expanded="true" />
-            <element signature="e#902#903#0" expanded="true" />
-            <element signature="e#928#929#0" expanded="true" />
-            <element signature="e#993#994#0" expanded="true" />
-            <element signature="e#1036#1037#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/refactoringminer/api/GitHistoryRefactoringMiner.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/io/File.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/refactoringminer/api/Refactoring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gr/uom/java/xmi/diff/ExtractOperationRefactoring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="77" column="66" selection-start-line="77" selection-start-column="41" selection-end-line="77" selection-end-column="66" />
+        <state relative-caret-position="169">
+          <caret line="554" column="18" selection-start-line="554" selection-start-column="18" selection-end-line="554" selection-end-column="18" />
+          <folding>
+            <element signature="e#23018#23019#0" expanded="true" />
+            <element signature="e#23057#23058#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/org/refactoringminer/ExtractMethodMiner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="42" column="47" lean-forward="true" selection-start-line="42" selection-start-column="47" selection-end-line="42" selection-end-column="47" />
+        <state relative-caret-position="100">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/refactoringminer/ClassVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/refactoringminer/ClassInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1083#1723#0" expanded="true" />
-            <element signature="e#1722#1723#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/refactoringminer/MethodVIsitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/refactoringminer/ExtractMethodProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="109" column="10" selection-start-line="109" selection-start-column="10" selection-end-line="109" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#755#756#0" expanded="true" />
+            <element signature="e#789#790#0" expanded="true" />
+            <element signature="e#1367#1381#0" expanded="true" />
+            <element signature="e#1562#2754#0" expanded="true" />
+            <element signature="e#2753#2754#0" expanded="true" />
+            <element signature="e#4535#4536#0" expanded="true" />
+            <element signature="e#4598#4599#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -652,7 +945,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -660,7 +952,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Gradle: com.fasterxml.jackson.core:jackson-annotations:2.9.0</last-edited>
+          <last-edited>Maven: com.github.javaparser:javaparser-core:3.14.52</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

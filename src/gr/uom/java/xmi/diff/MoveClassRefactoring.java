@@ -5,6 +5,7 @@ import gr.uom.java.xmi.UMLClass;
 import java.util.ArrayList;
 import java.util.List;
 
+import gr.uom.java.xmi.UMLOperation;
 import org.refactoringminer.api.Refactoring;
 import org.refactoringminer.api.RefactoringType;
 import org.refactoringminer.util.PrefixSuffixUtils;
@@ -89,5 +90,13 @@ public class MoveClassRefactoring implements Refactoring {
 				.setDescription("moved type declaration")
 				.setCodeElement(movedClass.getName()));
 		return ranges;
+	}
+	public Class<? extends UMLOperation> getClassBeforeRefactoring(){
+		System.out.println("clase antes");
+		return null;
+	}
+	public Class<? extends Class> getClassAfterRefactoring(){
+		System.out.println("clase despues");
+		return null;
 	}
 }

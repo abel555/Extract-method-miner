@@ -124,6 +124,7 @@ public class ChangeReturnTypeRefactoring implements Refactoring {
 	}
 
 
+
 	@Override
 	public List<CodeRange> leftSide() {
 		List<CodeRange> ranges = new ArrayList<CodeRange>();
@@ -140,5 +141,13 @@ public class ChangeReturnTypeRefactoring implements Refactoring {
 				.setDescription("changed return type")
 				.setCodeElement(changedType.toString()));
 		return ranges;
+	}
+	public Class<? extends UMLOperation> getClassBeforeRefactoring(){
+		System.out.println("clase antes");
+		return null;
+	}
+	public Class<? extends Class> getClassAfterRefactoring(){
+		System.out.println("clase despues");
+		return null;
 	}
 }

@@ -7,6 +7,7 @@ import java.util.LinkedHashSet;
 import java.util.List;
 import java.util.Set;
 
+import gr.uom.java.xmi.UMLOperation;
 import org.refactoringminer.api.Refactoring;
 import org.refactoringminer.api.RefactoringType;
 
@@ -85,5 +86,13 @@ public class ExtractSuperclassRefactoring implements Refactoring {
 				.setDescription("extracted super-type declaration")
 				.setCodeElement(extractedClass.getName()));
 		return ranges;
+	}
+	public Class<? extends UMLOperation> getClassBeforeRefactoring(){
+		System.out.println("clase antes");
+		return null;
+	}
+	public Class<? extends Class> getClassAfterRefactoring(){
+		System.out.println("clase despues");
+		return null;
 	}
 }

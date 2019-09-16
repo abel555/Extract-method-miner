@@ -3,6 +3,7 @@ package gr.uom.java.xmi.diff;
 import java.util.ArrayList;
 import java.util.List;
 
+import gr.uom.java.xmi.UMLOperation;
 import org.refactoringminer.api.Refactoring;
 import org.refactoringminer.api.RefactoringType;
 
@@ -88,5 +89,13 @@ public class MoveSourceFolderRefactoring implements Refactoring {
 					.setCodeElement(ref.getMovedClass().getName()));
 		}
 		return ranges;
+	}
+	public Class<? extends UMLOperation> getClassBeforeRefactoring(){
+		System.out.println("clase antes");
+		return null;
+	}
+	public Class<? extends Class> getClassAfterRefactoring(){
+		System.out.println("clase despues");
+		return null;
 	}
 }
